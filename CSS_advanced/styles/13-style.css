@@ -22,7 +22,7 @@ a:link {
 }
 
 a:visited {
-    font-size: italic;
+    font-style: italic;
 }
 
 a:hover {
