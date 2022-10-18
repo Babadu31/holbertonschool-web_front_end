@@ -16,7 +16,7 @@ a {
     color : var(--color-primary);
 }
 
-:root{
+:root {
     --color-primary : #d73953;
     --color-black : #090909;
     --color-white : #ffffff;
@@ -27,7 +27,7 @@ a {
     --fond-family-title : "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-body{
+body {
     font-family: var(--font-family-base);
 }
 
@@ -36,6 +36,6 @@ h2,
 h3,
 h4,
 h5,
-h6{
+h6 {
     font-family: var(--fond-family-title);
 }
