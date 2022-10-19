@@ -337,11 +337,11 @@ ul.row {
     z-index: 1;
 }
 
-.card-wordk:hover .card-inner {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-.card-wordk .card-title {
+.card-work .card-title {
     text-align: center;
     margin: 0;
     opacity: 0;
@@ -349,13 +349,13 @@ ul.row {
     position: relative;
 }
 
-.card-wordk .card-title a {
+.card-work .card-title a {
     display: block;
     text-decoration: none;
     padding: 45%;
 }
 
-.card-wordk .card-title a::after {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
@@ -364,6 +364,6 @@ ul.row {
     content: "";
 }
 
-.card-wordk:hover .card-title {
+.card-work:hover .card-title {
     opacity: 1;
 }
