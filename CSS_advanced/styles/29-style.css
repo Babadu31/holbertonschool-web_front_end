@@ -314,12 +314,12 @@ ul.row {
     position: absolute;
     top: 0;
     left: 0;
-    color: var(--color-white);
+    background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
 }
 
 .nav .nav-item:hover .nav-link {
-    color: var(--color-primary);
+    background-color: var(--color-primary);
     width: 100%;
 }
