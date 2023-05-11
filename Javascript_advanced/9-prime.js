@@ -19,5 +19,5 @@ function countPrimeNumbers() {
   var primeCount = countPrimeNumbers();
   var end = performance.now();
   var executionTime = end - start;
-  console.log('Execution time of printing countPrimeNumbers was ' + executionTime + ' milliseconds.');
+  console.log('Execution time of printing countPrimeNumbers was ' + executionTime.toFixed(20) + ' milliseconds.');
   
