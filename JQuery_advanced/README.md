@@ -1,0 +1,1 @@
+In the middle of our life's path, I found myself in a dark forest, because the straight path was lost.
