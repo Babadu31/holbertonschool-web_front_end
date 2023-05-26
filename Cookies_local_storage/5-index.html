@@ -23,7 +23,6 @@
             for (let i of availableItems){
                 var $li = document.createElement("li");
                 $li.innerHTML = i;
-                // Correctly adding event listener here
                 $li.addEventListener("click", function() { addItemToCart(i); });
                 $ul.append($li);
             }
